@@ -1,0 +1,549 @@
+1,photosystem II
+2,cytochrom b6f complex
+3,photosystem I
+4,ferredoxin-NADP reductase
+5,ATPase
+6,RuBisCO
+7,PGA kinase
+8,GAP dehydrogenase
+9,TP isomerase
+10,FBP aldolase
+11,FBPase
+12,F6P transketolase
+13,SBP aldolase
+14,SBPase
+15,S7P transketolase
+16,Ru5P epimerase
+17,R5P isomerase
+18,Ru5P kinase
+19,G6P isomerase
+20,Phosphoglucomutase
+21,G1P adenylyltransferase
+22,starch synthase
+23,starch synthase
+24,starch synthase
+25,amylase
+26,amylase
+27,disproportionating enzyme
+28,disproportionating enzyme
+29,disproportionating enzyme
+30,disproportionating enzyme
+31,Hexokinase
+32,(starch) phosphorylase
+33,(starch) phosphorylase
+34,TP isomerase
+35,FBP aldolase
+36,FBPase
+37,F6P kinase
+38,F26BP phosphorylase
+39,G6P isomerase
+40,Phosphoglucomutase
+41,UDPG pyrophosphorylase
+42,S6P synthase
+43,S6P phosphorylase
+44,Suc synthase
+45,Fructofuranosidase
+46,Fructokinase
+47,UDPG:G6P glucosyltransferase
+48,Tre phosphatase
+49,cellulose synthase
+50,cellulose synthase
+51,cellulose synthase
+52,Mal dehydrogenase
+53,PEP carboxylase
+54,PEP carboxylase
+55,Enolase
+56,PGA mutase
+57,PGA kinase
+58,GAP dehydrogenase
+59,GAP dehydrogenase
+60,6-Phosphofructokinase
+61,6-Phosphofructokinase
+62,GAP dehydrogenase
+63,PGA mutase
+64,Enolase
+65,Pyr kinase
+66,Pyr kinase
+67,Pyr dehydrogenase
+68,Pyr dehydrogenase
+69,DHL acetyltransferase
+70,DHL dehydrogenase
+71,Cit synthase
+72,Aconitase dehydration
+73,Aconitase hydration
+74,iCit dehydrogenase
+75,KG dehydrogenase
+76,DHL succinyltransferase
+77,SCA-CoA ligase
+78,SCA dehydrogenase (Q)
+79,Fum hydratase
+80,Mal dehydrogenase
+81,NADH dehydrogenase (Q)
+82,Cytc reductase
+83,Cytc oxidase
+84,ATP synthase
+85,RuBisCO
+86,PGCA phosphorylase
+87,GCA oxidase
+88,Catalase
+89,Glu:GLX aminotransferase
+90,Gly dehydrogenase
+91,Aminomethyltransferase
+92,DHL dehydrogenase
+93,Gly hydroxymethyltransferase
+94,Ser:GLX aminotransferase
+95,GCEA dehydrogenase
+96,Mal dehydrogenase
+97,GCEA kinase
+98,G6P dehydrogenase
+99,6-Phosphogluconolactonase
+100,6PG dehydrogenase
+101,6PG dehydrogenase
+102,Transaldolase
+103,DAHP synthase
+104,DHQ synthase
+105,DHQ dehydratase
+106,SA dehydrogenase
+107,SA kinase
+108,EPSP synthase
+109,CHR synthase
+110,R5P diphosphokinase
+111,Pyr phosphate dikinase
+112,Mal dehydrogenase
+113,Mal dehydrogenase
+114,Mal dehydrogenase
+115,Mal dehydrogenase
+116,Mal dehydrogenase
+117,Mal dehydrogenase
+118,Cit synthase
+119,Cit synthase
+120,Aconitase dehydration
+121,Aconitase dehydration
+122,Aconitase hydration
+123,Aconitase hydration
+124,iCit dehydrogenase
+125,iCit dehydrogenase
+126,iCit dehydrogenase
+127,iCit dehydrogenase
+128,iCit lyase
+129,Mal synthase
+130,ATP-Cit lyase
+131,A-CoA synthetase
+132,A-CoA carboxylase
+133,M-CoA:ACP malonyltransferase
+134,inorganic PPiase
+135,inorganic PPiase
+136,PPi-dep.  Phosphofructokinase
+137,For dehydrogenase
+138,For-THF ligase
+139,Dihydrofolate reductase
+140,Thioredoxin reductase
+141,ADN kinase
+142,ADN nucleosidase
+143,AD PRPP-transferase
+144,Ribokinase
+145,NO3 reductase
+146,NO3 reductase
+147,Fd-NO2 reductase
+148,ATP sulfurylase
+149,APS reductase
+150,GSSG reductase
+151,SO3 reductase
+152,HCO3 dehydratase
+153,HCO3 dehydratase
+154,Ala transaminase
+155,Ala transaminase
+156,Ala transaminase
+157,A-Glu kinase
+158,A-GluP reductase
+159,A-Orn transaminase
+160,A-Orn:A-Glu acetyltransferase
+161,CBP synthase
+162,Orn carbamoyltransferase
+163,Arg-SCA synthase
+164,Arg-SCA lyase
+165,Fum hydratase
+166,Asn synthase
+167,Asp aminotransferase
+168,Asp aminotransferase
+169,Asp aminotransferase
+170,Asp aminotransferase
+171,Asnase
+172,Ser O-acetyltransferase
+173,Ser O-acetyltransferase
+174,Ser O-acetyltransferase
+175,Cys synthase
+176,Cys synthase
+177,Cys synthase
+178,Glu synthase
+179,Glu dehydrogenase
+180,Glnase
+181,Glu synthase
+182,Glu synthase (FeS-Fd)
+183,Glu dehydrogenase
+184,Glu dehydrogenase
+185,Glu dehydrogenase
+186,Glu decarboxylase
+187,GABA transaminase
+188,GABA transaminase
+189,SCA-SeA dehydrogenase
+190,Gln synthetase
+191,Gln synthetase
+192,Gln synthetase
+193,Thr aldolase
+194,ACD oxidoreductase
+195,GCA oxidase
+196,Catalase
+197,Ser:GLX aminotransferase
+198,GCEA dehydrogenase
+199,Glu:GLX aminotransferase
+200,ATP PR-transferase
+201,Pr-ATP diphosphatase
+202,Pr-AMP cyclohydrolase
+203,P-AICAR-P isomerase
+204,ImGP synthase
+205,ImGP dehydratase
+206,Hisol-P transaminase
+207,Hisol-P phosphatase
+208,Hisol-P dehydrogenase
+209,Hisal-P dehydrogenase
+210,Thr dehydratase
+211,AL synthase
+212,AL synthase
+213,Ketol-acid reductoisomerase
+214,Ketol-acid reductoisomerase
+215,DH-acid dehydratase
+216,B.-chain-aa transaminase
+217,AL synthase
+218,Ketol-acid reductoisomerase
+219,Ketol-acid reductoisomerase
+220,DH-acid dehydratase
+221,2-IPM synthase
+222,3-IPM dehydratase
+223,3-IPM dehydratase
+224,3-IPM dehydrogenase
+225,spontaneous
+226,B.-chain-aa transaminase
+227,Asp kinase
+228,Asp-SeA dehydrogenase
+229,DHD synthase
+230,DHD reductase
+231,DHD reductase
+232,DAP aminotransferase
+233,DAP epimerase
+234,DAP decarboxylase
+235,H-Ser dehydrogenase
+236,H-Ser dehydrogenase
+237,H-Ser kinase
+238,CTH synthase
+239,CTH beta-lyase
+240,5M-THF oxidoreductase
+241,Met synthase
+242,Gly hydroxymethyltransferase
+243,Met adenosyltransferase
+244,H-Cys S-Met-transf.
+245,aH-Cysase
+246,CHR mutase
+247,Glu:PRE aminotransferase
+248,AGN dehydratase
+249,Arginase
+250,Urease
+251,Orn aminotransferase
+252,Glu kinase
+253,Glu kinase
+254,Glu kinase
+255,GluSeA dehydrogenase
+256,GluSeA dehydrogenase
+257,GluSeA dehydrogenase
+258,spontaneous
+259,spontaneous
+260,spontaneous
+261,P5C reductase
+262,Pro dehydrogenase
+263,Pro dehydrogenase
+264,P5C dehydrogenase
+265,P5C dehydrogenase
+266,P5C dehydrogenase
+267,PGA dehydrogenase
+268,PSer aminotransferase
+269,PSer phosphatase
+270,Ser racemase
+271,Threonine synthase
+272,ANT synthase
+273,ANT PR-transferase
+274,PR-ANT isomerase
+275,Ind-GP synthase
+276,Ind-GP lyase
+277,Trp synthase
+278,AGN dehydrogenase
+279,B.-chain-aa transaminase
+280,ATase
+281,PRA-Gly ligase
+282,GAR formyltransferase
+283,FGAM synthase
+284,FGAM cyclo-ligase
+285,AIR carboxylase
+286,SAICAR synthase
+287,Adenylo-SCA lyase
+288,AICAR formyltransferase
+289,IMP cyclohydrolase
+290,AMP deaminase
+291,IMP dehydrogenase
+292,GMP synthase
+293,Adenylo-SCA synthase
+294,Adenylo-SCA lyase
+295,Asp carbamoyltransferase
+296,DHOase
+297,DHO dehydrogenase
+298,ORO PR-transferase
+299,OMP decarboxylase
+300,CTP synthase
+301,adenylate kinase
+302,adenylate kinase
+303,guanylate kinase
+304,UMP/CMP kinase
+305,Nucleoside-triphosphatase
+306,Ribonucleoside-diphosphate reductase
+307,Ribonucleoside-diphosphate reductase
+308,Ribonucleoside-diphosphate reductase
+309,Ribonucleoside-diphosphate reductase
+310,Deoxyuridine-triphosphatase
+311,Thymidylate synthase
+312,Thymidine monophosphate kinase
+313,Nucleoside-diphosphate kinase
+314,Nucleoside-diphosphate kinase
+315,Nucleoside-diphosphate kinase
+316,Nucleoside-diphosphate kinase
+317,Nucleoside-diphosphate kinase
+318,Nucleoside-diphosphate kinase
+319,Nucleoside-diphosphate kinase
+320,Nucleoside-diphosphate kinase
+321,SO4 diffusion
+322,NO2 transporter
+323,Nucleotide transporter
+324,ADP/ATP carrier
+325,Brittle1 protein transporter
+326,Brittle1 protein transporter
+327,Brittle1 protein transporter
+328,NAD transporter
+329,NAD transporter
+330,TP/Pi translocator
+331,TP/Pi translocator
+332,TP/Pi translocator
+333,PEP/Pi translocator
+334,GCA/GCEA shuffle
+335,GCA/GCEA shuffle
+336,G6P exporter
+337,Glc transporter
+338,Mas exporter
+339,Polyol transporter 5
+340,Dicarboxylate carrier
+341,Dicarboxylate carrier
+342,Dicarboxylate transporter
+343,Dicarboxylate transporter
+344,Di-/ri-carboxylate carrier
+345,Di-/ri-carboxylate carrier
+346,Di-/ri-carboxylate carrier
+347,Di-/ri-carboxylate carrier
+348,Di-/ri-carboxylate carrier
+349,Di-/ri-carboxylate carrier
+350,Di-/ri-carboxylate carrier
+351,Di-/ri-carboxylate carrier
+352,Di-/ri-carboxylate carrier
+353,Di-/ri-carboxylate carrier
+354,Di-/ri-carboxylate carrier
+355,Di-/ri-carboxylate carrier
+356,SCA/Fum carrier
+357,B0
+358,B0
+359,B0
+360,B0
+361,B0
+362,Basic amino acid carriers
+363,Basic amino acid carriers
+364,Pro uniporter
+365,Pro/Glu antiporter
+366,P5C exporter
+367,P5C exporter
+368,PRPP exporter
+369,Fum exporter
+370,H-Cys exporter
+371,ORO exporter
+372,DHO shuffle
+373,DHO shuffle
+374,Gly/Ser shuffle
+375,O2 diffusion
+376,O2 diffusion
+377,O2 diffusion
+378,CO2 diffusion
+379,CO2 diffusion
+380,H2O diffusion
+381,H2O diffusion
+382,H2O diffusion
+383,Proton diffusion
+384,NH4 diffusion
+385,NH4 diffusion
+386,H2S diffusion
+387,H2S diffusion
+388,AC diffusion
+389,AC diffusion
+390,Pyr diffusion
+391,Pyr diffusion
+392,Pyr diffusion
+393,GCA diffusion
+394,GCEA diffusion
+395,Mal diffusion
+396,OAA diffusion
+397,KG diffusion
+398,Ala diffusion
+399,Arg diffusion
+400,Asn diffusion
+401,Asp diffusion
+402,Cys diffusion
+403,Glu diffusion
+404,Gln diffusion
+405,Gly diffusion
+406,His diffusion
+407,Ile diffusion
+408,Leu diffusion
+409,Lys diffusion
+410,Met diffusion
+411,Phe diffusion
+412,Pro diffusion
+413,Ser diffusion
+414,Thr diffusion
+415,Trp diffusion
+416,Tyr diffusion
+417,Val diffusion
+418,Ala exporter
+419,Arg exporter
+420,Asn importer
+421,Asn importer
+422,Glu importer
+423,His exporter
+424,His importer
+425,Ile exporter
+426,Ile importer
+427,Leu exporter
+428,Leu importer
+429,Lys exporter
+430,Met importer
+431,Met importer
+432,Phe exporter
+433,Phe importer
+434,Pro importer
+435,Ser exporter
+436,Ser importer
+437,Thr exporter
+438,Thr importer
+439,Trp exporter
+440,Trp importer
+441,Tyr exporter
+442,Tyr importer
+443,Val exporter
+444,Val importer
+445,Proton sink/source for charge balancing of im-/export
+446,Import Photon
+447,Import CO2
+448,Import H2O
+449,Import Pi
+450,Import NO3
+451,Import NH4
+452,Import SO4
+453,Import H2S
+454,Export O2
+455,Export Ala
+456,Export Ala
+457,Export Ala
+458,Export Ala
+459,Export Arg
+460,Export Arg
+461,Export Arg
+462,Export Arg
+463,Export Asn
+464,Export Asn
+465,Export Asn
+466,Export Asn
+467,Export Asp
+468,Export Asp
+469,Export Asp
+470,Export Asp
+471,Export Cys
+472,Export Cys
+473,Export Cys
+474,Export Cys
+475,Export Gln
+476,Export Gln
+477,Export Gln
+478,Export Gln
+479,Export Glu
+480,Export Glu
+481,Export Glu
+482,Export Glu
+483,Export Gly
+484,Export Gly
+485,Export Gly
+486,Export Gly
+487,Export His
+488,Export His
+489,Export His
+490,Export His
+491,Export Ile
+492,Export Ile
+493,Export Ile
+494,Export Ile
+495,Export Leu
+496,Export Leu
+497,Export Leu
+498,Export Leu
+499,Export lys
+500,Export lys
+501,Export lys
+502,Export lys
+503,Export Met
+504,Export Met
+505,Export Met
+506,Export Met
+507,Export Phe
+508,Export Phe
+509,Export Phe
+510,Export Phe
+511,Export Pro
+512,Export Pro
+513,Export Pro
+514,Export Pro
+515,Export Ser
+516,Export Ser
+517,Export Ser
+518,Export Ser
+519,Export Thr
+520,Export Thr
+521,Export Thr
+522,Export Thr
+523,Export Trp
+524,Export Trp
+525,Export Trp
+526,Export Trp
+527,Export Tyr
+528,Export Tyr
+529,Export Tyr
+530,Export Tyr
+531,Export Val
+532,Export Val
+533,Export Val
+534,Export Val
+535,Export starch
+536,Export glucose
+537,Export fructose
+538,Export sucrose
+539,Export cell wall precursor
+540,Export maltose
+541,Export fatty acid precursor
+542,Export signaling precursor
+543,Maintenance
+544,Maintenance
+545,Maintenance
+546,Amino acid composition
+547,Carbon limiting biomass
+548,Nitrogen limiting biomass
+549,Light limiting biomass

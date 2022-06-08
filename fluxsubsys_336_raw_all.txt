@@ -1,0 +1,336 @@
+light reactions	1
+light reactions	2
+light reactions	3
+light reactions	4
+light reactions	5
+Calvin-Benson cycle	6
+"Calvin-Benson cycle, glycolysis"	7
+Calvin-Benson cycle	8
+"Calvin-Benson cycle, glycolysis"	9
+"Calvin-Benson cycle, glycolysis"	10
+"Calvin-Benson cycle, glycolysis"	11
+"Calvin-Benson cycle, pentose phosphate pathway"	12
+"Calvin-Benson cycle, pentose phosphate pathway"	13
+"Calvin-Benson cycle, pentose phosphate pathway"	14
+"Calvin-Benson cycle, pentose phosphate pathway"	15
+Calvin-Benson cycle	16
+starch synthesis	17
+starch synthesis	18
+starch synthesis	19
+starch synthesis	20
+starch synthesis	21
+starch synthesis	22
+starch degradation	23
+"sucrose synthesis, gluconeogenesis, glycolysis"	24
+"sucrose synthesis, gluconeogenesis, glycolysis"	25
+"sucrose synthesis, sucrose degradation, gluconeogenesis"	26
+"sucrose synthesis, sucrose degradation"	27
+"sucrose synthesis, sucrose degradation, pyrophosphate recycling"	28
+sucrose synthesis	29
+sucrose synthesis	30
+sucrose degradation	31
+sucrose degradation	32
+sucrose degradation	33
+trehalose synthesis	34
+trehalose synthesis	35
+cellulose synthesis	36
+cellulose synthesis	37
+gluconeogenesis	38
+gluconeogenesis	39
+"gluconeogenesis, glycolysis"	40
+"gluconeogenesis, glycolysis"	41
+"gluconeogenesis, glycolysis"	42
+"gluconeogenesis, glycolysis"	43
+glycolysis	44
+glycolysis	45
+glycolysis	46
+glycolysis	47
+pyruvate decarboxylation	48
+pyruvate decarboxylation	49
+pyruvate decarboxylation	50
+"pyruvate decarboxylation, tricarboxylic acid cycle"	51
+"tricarboxylic acid cycle, glyoxylate cycle"	52
+"tricarboxylic acid cycle, glyoxylate cycle"	53
+"tricarboxylic acid cycle, glyoxylate cycle"	54
+"tricarboxylic acid cycle, oxidative phosphorylation"	55
+"tricarboxylic acid cycle, glyoxylate cycle"	56
+oxidative phosphorylation	57
+oxidative phosphorylation	58
+oxidative phosphorylation	59
+oxidative phosphorylation	60
+photorespiration	61
+photorespiration	62
+photorespiration	63
+photorespiration	64
+"photorespiration, glycine synthesis"	65
+photorespiration	66
+photorespiration	67
+photorespiration	68
+photorespiration	69
+"photorespiration, glycine synthesis"	70
+photorespiration	71
+photorespiration	72
+photorespiration	73
+pentose phosphate pathway	74
+pentose phosphate pathway	75
+pentose phosphate pathway	76
+Shikimate pathway	77
+Shikimate pathway	78
+Shikimate pathway	79
+Shikimate pathway	80
+Shikimate pathway	81
+Shikimate pathway	82
+Shikimate pathway	83
+PRPP synthesis	84
+pyruvate metabolism	85
+pyruvate metabolism	86
+pyruvate metabolism	87
+pyruvate metabolism	88
+pyruvate metabolism	89
+pyruvate metabolism	90
+pyruvate metabolism	91
+pyruvate metabolism	92
+pyruvate metabolism	93
+pyruvate metabolism	94
+actyl-coenzyme A synthesis	95
+actyl-coenzyme A synthesis	96
+fatty acid synthesis	97
+fatty acid synthesis	98
+pyrophosphate recycling	99
+pyrophosphate recycling	100
+pyrophosphate recycling	101
+THF recycling	102
+THF recycling	103
+THF recycling	104
+TRX recycling	105
+nitrate assimilation	106
+nitrate assimilation	107
+sulfur assimilation	108
+sulfur assimilation	109
+sulfur assimilation	110
+sulfur assimilation	111
+carbon fixation	112
+carbon fixation	113
+alanine synthesis	114
+alanine synthesis	115
+arginine synthesis	116
+arginine synthesis	117
+arginine synthesis	118
+arginine synthesis	119
+"arginine synthesis, UMP synthesis"	120
+arginine synthesis	121
+arginine synthesis	122
+arginine synthesis	123
+"arginine synthesis, IMP synthesis, AMP synthesis"	124
+"asparagine synthesis, lysine synthesis, methionine synthesis"	125
+aspartate synthesis	126
+aspartate synthesis	127
+aspartate synthesis	128
+cysteine synthesis	129
+cysteine synthesis	130
+cysteine synthesis	131
+cysteine synthesis	132
+glutamate synthesis	133
+glutamate synthesis	134
+glutamate synthesis	135
+glutamate degradation	136
+glutamate degradation	137
+glutamate degradation	138
+glutamine synthesis	139
+glutamine synthesis	140
+glycine synthesis	141
+glycine synthesis	142
+glycine synthesis	143
+glycine synthesis	144
+glycine synthesis	145
+histidine synthesis	146
+histidine synthesis	147
+histidine synthesis	148
+histidine synthesis	149
+histidine synthesis	150
+histidine synthesis	151
+histidine synthesis	152
+histidine synthesis	153
+histidine synthesis	154
+histidine synthesis	155
+isoleucine synthesis	156
+"isoleucine synthesis, leucine synthesis, valine synthesis"	157
+isoleucine synthesis	158
+isoleucine synthesis	159
+isoleucine synthesis	160
+isoleucine synthesis	161
+isoleucine synthesis	162
+"leucine synthesis, valine synthesis"	163
+"leucine synthesis, valine synthesis"	164
+"leucine synthesis, valine synthesis"	165
+"leucine synthesis, valine synthesis"	166
+leucine synthesis	167
+leucine synthesis	168
+leucine synthesis	169
+leucine synthesis	170
+leucine synthesis	171
+leucine synthesis	172
+"lysine synthesis, methionine synthesis, threonine synthesis"	173
+lysine synthesis	174
+lysine synthesis	175
+lysine synthesis	176
+lysine synthesis	177
+lysine synthesis	178
+lysine synthesis	179
+"methionine synthesis, threonine synthesis"	180
+"methionine synthesis, threonine synthesis"	181
+methionine synthesis	182
+methionine synthesis	183
+"methionine synthesis, THF recycling"	184
+methionine synthesis	185
+"methionine synthesis, THF recycling"	186
+"phenylalanine synthesis, tyrosine synthesis"	187
+"phenylalanine synthesis, tyrosine synthesis"	188
+phenylalanine synthesis	189
+proline synthesis	190
+proline synthesis	191
+proline synthesis	192
+proline synthesis	193
+proline synthesis	194
+proline synthesis	195
+proline synthesis	196
+proline degradation	197
+serine synthesis	198
+serine synthesis	199
+serine synthesis	200
+threonine synthesis	201
+tryptophan synthesis	202
+tryptophan synthesis	203
+tryptophan synthesis	204
+tryptophan synthesis	205
+tryptophan synthesis	206
+tryptophan synthesis	207
+tyrosine synthesis	208
+valine synthesis	209
+IMP synthesis	210
+IMP synthesis	211
+IMP synthesis	212
+IMP synthesis	213
+IMP synthesis	214
+IMP synthesis	215
+IMP synthesis	216
+IMP synthesis	217
+IMP synthesis	218
+IMP synthesis	219
+GMP synthesis	220
+GMP synthesis	221
+GMP synthesis	222
+AMP synthesis	223
+AMP synthesis	224
+UMP synthesis	225
+UMP synthesis	226
+UMP synthesis	227
+UMP synthesis	228
+UMP synthesis	229
+CTP synthesis	230
+nucleotide metabolism	231
+nucleotide metabolism	232
+nucleotide metabolism	233
+nucleotide metabolism	234
+nucleotide metabolism	235
+nucleotide metabolism	236
+nucleotide metabolism	237
+nucleotide metabolism	238
+nucleotide metabolism	239
+nucleotide metabolism	240
+nucleotide metabolism	241
+nucleotide metabolism	242
+nucleotide metabolism	243
+nucleotide metabolism	244
+nucleotide metabolism	245
+nucleotide metabolism	246
+nucleotide metabolism	247
+nucleotide metabolism	248
+nucleotide metabolism	249
+nucleotide metabolism	250
+transport	251
+transport	252
+transport	253
+transport	254
+transport	255
+transport	256
+transport	257
+transport	258
+transport	259
+transport	260
+transport	261
+transport	262
+transport	263
+transport	264
+transport	265
+transport	266
+transport	267
+transport	268
+transport	269
+transport	270
+transport	271
+transport	272
+transport	273
+transport	274
+transport	275
+transport	276
+transport	277
+transport	278
+transport	279
+transport	280
+transport	281
+transport	282
+transport	283
+transport	284
+transport	285
+transport	286
+transport	287
+transport	288
+transport	289
+transport	290
+transport	291
+transport	292
+transport	293
+transport	294
+transport	295
+transport	296
+transport	297
+transport	298
+transport	299
+transport	300
+transport	301
+transport	302
+transport	303
+transport	304
+transport	305
+transport	306
+transport	307
+transport	308
+transport	309
+transport	310
+transport	311
+transport	312
+transport	313
+transport	314
+transport	315
+transport	316
+transport	317
+transport	318
+transport	319
+transport	320
+transport	321
+transport	322
+transport	323
+transport	324
+transport	325
+transport	326
+im-/export	327
+import	328
+import	329
+import	330
+import	331
+import	332
+import	333
+export	334
+maintenance	335
+biomass reaction	336
