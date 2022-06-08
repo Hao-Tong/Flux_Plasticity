@@ -1,0 +1,19 @@
+Adjusted P-value,Group,Enriched set size
+3.55967E-12,photorespiration,13
+2.89678E-05,Calvin-Benson cycle,9
+0.000309873,light reactions,5
+0.00185924,oxidative phosphorylation,4
+0.067825869,trehalose synthesis,2
+0.067825869,pentose phosphate pathway,3
+0.067825869,arginine synthesis,4
+0.344758065,im-/export,1
+0.374963273,proline synthesis,3
+0.374963273,gluconeogenesis,2
+0.374963273,pyruvate metabolism,2
+0.374963273,glycolysis,2
+0.435020415,sucrose degradation,1
+0.435020415,starch degradation,1
+0.435020415,import,1
+0.435020415,glutamate synthesis,1
+0.435020415,starch synthesis,1
+1,transport,19
