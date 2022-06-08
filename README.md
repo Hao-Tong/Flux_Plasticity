@@ -10,10 +10,10 @@ All codes require only a standard computer with enough RAM to support the in-mem
 1.2 Software requirements
 
 1.2.1 Operation System (OS) Requirements
-All codes can be run under Linux or Windows OS. The code here has been tested on Ubuntu 14.04 LTS. 
+All codes can be run under Linux, Windows or mac OS. The code here has been tested on mac OS 12.3.1. 
 
 1.2.2 Programming software
-R language and Matlab are needed to run all codes. The code here has been tested on R (version 3.4.4) and Matlab (version 8.5 (R2015a)). 
+R language and Matlab are needed to run all codes. The code here has been tested on R (version 4.1.2) and Matlab (version R2020a)). 
 
 ## 2. Installation Guide
 
