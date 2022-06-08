@@ -55,58 +55,21 @@ To install the solver cvx in Matlab, similarly, download the package and unzip i
 
 cvx_setup
 
-## 3. Folder instructions
+## 3. Instructions
 
 ### 3.1 FW (Fresh weight and its plasticity)
 •	GxE analysis in FW (FW-h2.csv)
+
 •	BLUP of FW and its fold change (FW-BLUP.csv, FCFW-BLUP.csv)
 
 •	Predictability of fresh weight and its plasticity (rrBLUP/)
-•	Genetic correlation between fresh weight and its plasticity (gcorr/)
 
-More information on how to run the Matlab code of netGS, can be found https://github.com/Hao-Tong/netGS.
+•	Genetic correlation between fresh weight and its plasticity (gcorr/)
 
 ### 3.2 netGS across environments
 
-All codes and data are under the folder named ‘netGS_env’. 
-Please change the path name in the first section of the code to the path on your computer. If you want to use a new folder, please make sure the results of rrBLUP in previous section (fluxpredict_*.csv and fluxprediction_cor.csv) are copied here or indicate the path to access these results. 
 
-•	FluxDist.m
-This code should be run in Matlab. 
-This code is used to estimate the reference flux distribution of Col-0 in two environments (optimal and low N) based on FBA and minimization of quadratic program. 
-
-The output including: the reference flux distribution in optimal N condition both in .mat format (fluxcol0_optN.mat) and .csv format (fluxcol0_optN.csv), the reference flux distribution in low N condition both in .mat format (fluxcol0_lowN.mat) and .csv format (fluxcol0_lowN.csv), and the index for nonzero flux in reference flux distribution in optimal N (nonzeroid.csv). 
-
-The code could take few seconds for the example on a normal desktop computer. 
-
-•	Biomass.m 
-This code should be run in Matlab. 
-This code is used to estimate the genotype flux distribution in steady-state in low N condition by minimization of quadratic program. The biomass flux included in this flux distribution is used as the final biomass prediction in low N condition. 
-
-The output including: the final flux distribution for each replicate and each fold in cross validations (biomasspredict_lowN_r*_f*.csv).
-
-The code could take up to an hour for the example on a normal desktop computer.
-
-•	Correlation.R
-This code should be run in R. 
-This code is used to check the correlation coefficient between predicted biomass in low N condition in netGS and measured biomass in low N condition as the netGS prediction accuracy across environments. 
-
-The output including: the correlation coefficient for each replicate and each fold in cross validations (biomcorr_lowN.csv).
-
-The code could take few seconds for the example on a normal desktop computer. 
-
-### 3.3 netGS robustness
-
-All codes and data are under the folder named ‘netGS_robust’. 
-Please change the path name in the first section of the code to the path on your computer. 
-
-•	FluxDist.m
-This code should be run in Matlab. 
-This code is used to test the robustness of flux distribution of Col-0 based on FBA and minimization of quadratic program. 
-
-The output including: the reference flux distribution both in .mat format (fluxcol0.mat) and .csv format (fluxcol0.csv), the random sampled reference flux distribution both in .mat format (fluxcol0_sample.mat) and .csv format (fluxcol0_sample.csv), the random sampled reference flux distribution in steady-state as robustness in both in .mat format (fluxcol0_robust.mat) and .csv format (fluxcol0_robust.csv), and the index for nonzero flux in reference flux distribution (nonzeroid.csv). 
-
-The code could take few minutes for the example on a normal desktop computer. 
+More information on how to run the Matlab code of netGS, can be found https://github.com/Hao-Tong/netGS.
 
 ## 4. Reference
 
