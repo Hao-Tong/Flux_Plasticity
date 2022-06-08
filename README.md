@@ -57,7 +57,7 @@ cvx_setup
 
 ## 3. Instructions
 
-### 3.1 FW (Fresh weight and its plasticity)
+### 3.1 FW (fresh weight and its plasticity)
 •	GxE analysis in FW (FW-h2.csv)
 
 •	BLUP of FW and its fold change (FW-BLUP.csv, FCFW-BLUP.csv)
@@ -66,10 +66,37 @@ cvx_setup
 
 •	Genetic correlation between fresh weight and its plasticity (gcorr/)
 
-### 3.2 netGS across environments
+### 3.2 opt, LN, LC (flux distribution in three conditions)
 
+•	Genotype-specific flux distribution in control condition (opt/AraCore_allacc_opt.csv)
+
+•	Genotype-specific flux distribution in low nitrogen condition (LN/AraCore_allacc_LN.csv)
+
+•	Genotype-specific flux distribution in low carbon condition (LC/AraCore_allacc_LC.csv)
 
 More information on how to run the Matlab code of netGS, can be found https://github.com/Hao-Tong/netGS.
+
+### 3.3 MLM (GxE analysis of reaction flux)
+
+•	Genetic, environmental, and interaction variance of each flux (flux-h2.csv)
+
+•	Pathway enrichment analysis of G×E reactions (enrichment_GxE.xlsx)
+
+### 3.4 enzyme (GxE analysis of enzyme)
+
+•	Genetic, environmental, and interaction variance of each flux (enzyme-h2.csv)
+
+### 3.5 FC (fold change of flux, flux plasticity)
+
+•	Reactions of more than 8-fold change in low nitrogen condition (fcln_summary_8fold.csv)
+
+•	Reactions of more than 8-fold change in low carbon condition (fclc_summary_8fold.csv)
+
+### 3.6 FC_LNLC (fold change of flux, flux plasticity)
+
+
+### 3.7 FC_FW (fold change of flux, flux plasticity)
+
 
 ## 4. Reference
 
