@@ -57,74 +57,14 @@ cvx_setup
 
 ## 3. Folder instructions
 
-### 3.1 netGS
+### 3.1 FW (Fresh weight and its plasticity)
+•	GxE analysis in FW (FW-h2.csv)
+•	BLUP of FW and its fold change (FW-BLUP.csv, FCFW-BLUP.csv)
 
-All codes and data are under the folder named ‘netGS’. 
-Because the codes were written both in Matlab and R, four separate files are presented followed the steps in netGS. Please change the path name in the first section of the code to the path on your computer. 
+•	Predictability of fresh weight and its plasticity (rrBLUP/)
+•	Genetic correlation between fresh weight and its plasticity (gcorr/)
 
-•	FluxDist.m
-This code should be run in Matlab. 
-This code is used to estimate the reference flux distribution of Col-0 based on flux balance analysis (FBA) and other genotypes based on minimization of quadratic program. 
-
-The output including: the reference flux distribution both in .mat format (fluxcol0.mat) and .csv format (fluxcol0.csv), the other genotype flux distribution both in .mat format (fluxgenotype.mat) and .csv format (fluxgenotype.csv), and the index for nonzero flux in reference flux distribution (nonzeroid.csv). 
-
-The code could take few minutes for the example on a normal desktop computer. 
-
-•	FluxDist_pFBA.m
-This code should be run in Matlab. 
-This code is used to estimate the reference flux distribution of Col-0 based on pFBA and other genotypes based on minimization of quadratic program. 
-
-The output including: the reference flux distribution both in .mat format (fluxcol0_pFBA.mat) and .csv format (fluxcol0_pFBA.csv), the other genotype flux distribution both in .mat format (fluxgenotype_pFBA.mat) and .csv format (fluxgenotype_pFBA.csv), and the index for nonzero flux in reference flux distribution (nonzeroid_pFBA.csv). 
-
-The code could take few minutes for the example on a normal desktop computer. 
-
-•	BayesC.R
-This code should be run in R. 
-This code is used to perform the classical GS via BayesC for each non-zero fluxes and estimate the prediction accuracy. 
-
-The output including: the predicted flux value for each replicate in three-fold cross validation (fluxpredict_ BayesC _*.csv) and the prediction accuracy of each flux in each cross validation (fluxpredict_ BayesC _cor.csv). 
-
-The code could take up to hours for the example on a normal desktop computer. 
-
-•	BayesC _pop.R
-This code should be run in R. 
-This code is used to perform the classical GS via BayesC with population structure for each non-zero fluxes and estimate the prediction accuracy. 
-
-The output including: the predicted flux value for each replicate in three-fold cross validation (fluxpredict_ BayesC _pop_*.csv) and the prediction accuracy of each flux in each cross validation (fluxpredict_ BayesC _pop_cor.csv). 
-
-The code could take up to hours for the example on a normal desktop computer. 
-
-•	rrBLUP.R
-This code should be run in R. 
-This code is used to perform the classical GS via rrBLUP for each non-zero fluxes and estimate the prediction accuracy. 
-
-The output including: the predicted flux value for each replicate in three-fold cross validation (fluxpredict_rrBLUP_*.csv) and the prediction accuracy of each flux in each cross validation (fluxpredict_rrBLUP_cor.csv). 
-
-The code could take up to half an hour for the example on a normal desktop computer. 
-
-•	rrBLUP_pop.R
-This code should be run in R. 
-This code is used to perform the classical GS via rrBLUP with population structure for each non-zero fluxes and estimate the prediction accuracy. 
-
-The output including: the predicted flux value for each replicate in three-fold cross validation (fluxpredict_rrBLUP_pop_*.csv) and the prediction accuracy of each flux in each cross validation (fluxpredict_rrBLUP_pop_cor.csv). 
-
-The code could take up to half an hour for the example on a normal desktop computer. 
-
-•	Biomass.m 
-This code should be run in Matlab. 
-This code is used to estimate the genotype flux distribution in steady-state by minimization of quadratic program. The biomass flux included in this flux distribution is used as the final biomass prediction of netGS. 
-
-The output including: the final flux distribution for each replicate and each fold in cross validations (biomasspredict_r*_f*.csv) and the number of fluxes included above the threshold (numfluxbyr2.csv).
-
-The code could take up to an hour for the example on a normal desktop computer.
-
-•	Correlation.R
-This code should be run in R. 
-This code is used to check the correlation coefficient between predicted biomass in netGS and measured biomass as the netGS prediction accuracy. 
-
-The output including: the correlation coefficient for each replicate and each fold in cross validations (biomcorr.csv).
-
-The code could take few seconds for the example on a normal desktop computer. 
+More information on how to run the Matlab code of netGS, can be found https://github.com/Hao-Tong/netGS.
 
 ### 3.2 netGS across environments
 
