@@ -1,6 +1,6 @@
 # Flux_Plasticity
-Genotype-by-environment of flux in genome-scale metabolite network
-# netGS (network-based genomic selection)
+# Plant growth and metabolic flux plasticity
+Predicting plasticity of rosette growth and metabolic fluxes in Arabidopsis thaliana
 
 ## 1. System Requirements
 
@@ -194,12 +194,9 @@ The output including: the reference flux distribution both in .mat format (fluxc
 
 The code could take few minutes for the example on a normal desktop computer. 
 
-### 4.4 For your data 
-These code can be simply used for any other dataset with the same format of the initial files showed above. You could modified the number of genotypes, number of fluxes in your model and the number of cross-validation replications. 
-
 ## 5. Reference
 
-Tong, H., Küken, A. & Nikoloski, Z. Integrating molecular markers into metabolic models improves genomic selection for Arabidopsis growth. Nature Communications 11, 2410 (2020).
+Predicting plasticity of rosette growth and metabolic fluxes in Arabidopsis thaliana, under review.
 
 Please see the Methods section in this paper for the model details in mathematical equations. 
 Any further questions: tong@mpimp-golm.mpg.de
