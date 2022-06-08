@@ -55,35 +55,9 @@ To install the solver cvx in Matlab, similarly, download the package and unzip i
 
 cvx_setup
 
-## 3. Example
+## 3. Folder instructions
 
-netGS needs the following initial data (the corresponding file name in brackets): 
-
-•	Metabolic network (model.xml)
-The metabolic network should be in the format that can be read by Cobra, including the information at least: stoichiometric matrix (S), gene-protein-reaction rules (rules), lower and upper bounds (lb and ub). 
-
-•	Phenotypic data (biomass_optN.csv or biomass_optNlowN.csv)
-The rows correspond to different genotypes and columns correspond to measured biomass in the given environments.
-
-•	Genotypic data (snp.csv)
-The rows correspond to SNPs and columns correspond to different genotypes. '1' denotes as the major alleles and '-1' denotes as the minor alleles. 
-
-•	Population structure data (pop_pca.csv)
-The columns correspond to principle components (PCs) calculated from genome SNP matrix. Top ten PCs included in this example.  
-
-•	Genotype-specific biomass reaction (biomreaction.csv)
-The rows correspond to metabolites of biomass reaction in stoichiometric matrix and columns correspond to different genotypes. 
-
-•	Cross-validation folds (foldid.csv)
-The rows correspond to different genotypes and columns correspond to cross-validations. The value denotes which fold each genotype belongs to in a random scenario. 
-
-The example showed here is an Arabidopsis genome-scale metabolic model with 407 metabolites and 549 reactions. Phenotypic data is the measured fresh weight (i.e. biomass) in 67 Arabidopsis accessions, and genotypic data is 1,824 enzymatic SNPs. Genotype-specific biomass reactions are calculated by the 30 measured soluble metabolites as well as starch for every genotype in corresponding environments. 
-
-Noted that the phenotypic data used in netGS within environment is normalized, and not normalized when prediction cross environments in the example data. 
-
-## 4. Instructions
-
-### 4.1 netGS
+### 3.1 netGS
 
 All codes and data are under the folder named ‘netGS’. 
 Because the codes were written both in Matlab and R, four separate files are presented followed the steps in netGS. Please change the path name in the first section of the code to the path on your computer. 
@@ -152,7 +126,7 @@ The output including: the correlation coefficient for each replicate and each fo
 
 The code could take few seconds for the example on a normal desktop computer. 
 
-### 4.2 netGS across environments
+### 3.2 netGS across environments
 
 All codes and data are under the folder named ‘netGS_env’. 
 Please change the path name in the first section of the code to the path on your computer. If you want to use a new folder, please make sure the results of rrBLUP in previous section (fluxpredict_*.csv and fluxprediction_cor.csv) are copied here or indicate the path to access these results. 
@@ -181,7 +155,7 @@ The output including: the correlation coefficient for each replicate and each fo
 
 The code could take few seconds for the example on a normal desktop computer. 
 
-### 4.3 netGS robustness
+### 3.3 netGS robustness
 
 All codes and data are under the folder named ‘netGS_robust’. 
 Please change the path name in the first section of the code to the path on your computer. 
@@ -194,7 +168,7 @@ The output including: the reference flux distribution both in .mat format (fluxc
 
 The code could take few minutes for the example on a normal desktop computer. 
 
-## 5. Reference
+## 4. Reference
 
 Predicting plasticity of rosette growth and metabolic fluxes in Arabidopsis thaliana, under review.
 
