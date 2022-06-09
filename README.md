@@ -17,7 +17,7 @@ R language and Matlab are needed to run all codes. The code here has been tested
 
 ## 2. Installation Guide
 
-All installation guide present below is only for Linux OS. For Windows OS, it might be slightly different. 
+All installation guide present below is only for Linux/mac OS. For Windows OS, it might be slightly different. 
 
 2.1 R language
 R language can be installed automatically under Linux OS using the demand below: 
@@ -92,11 +92,19 @@ More information on how to run the Matlab code of netGS, can be found https://gi
 
 •	Reactions of more than 8-fold change in low carbon condition (fclc_summary_8fold.csv)
 
-### 3.6 FC_LNLC (fold change of flux, flux plasticity)
+### 3.6 FC_LNLC (genomic prediction of flux plasticity)
 
+•	Predictability of flux plasticity - global cross-validation (rrBLUP/)
 
-### 3.7 FC_FW (fold change of flux, flux plasticity)
+•	Predictability of flux plasticity - internal cross-validation (rrBLUP_within/)
 
+### 3.7 FC_FW (predict grwoth via flux plasticity)
+
+•	Predictability of fresh weight based on netGS - Scenario 3 (rsign_ex.zip)
+
+•	Predictability of fresh weight based on netGS + internal threshold - Scenario 4 (rsign_ex_within.zip)
+
+More information on how to run the Matlab code of netGS, can be found https://github.com/Hao-Tong/netGS.
 
 ## 4. Reference
 
