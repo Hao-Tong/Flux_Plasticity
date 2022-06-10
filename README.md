@@ -28,7 +28,7 @@ In order to install R, you need the password of sudo account. The installation c
 
 After successful install R, you could simply type 'R' in the terminal to open a workspace under R, then run the code written in R language. 
 
-The netGS depends on two R packages: rrBLUP and R.matlab, which can be installed using the commands below in R workspace:
+This work depends on R packages such as: rrBLUP and R.matlab, which can be installed using the commands below in R workspace:
 
 install.packages(rrBLUP)
 install.packages(R.matlab)
